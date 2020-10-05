@@ -1,6 +1,12 @@
 # fake-server
 
-## install dependencies
+## Documentation
+
+server docs: https://github.com/typicode/json-server
+
+fake data docs: https://github.com/marak/Faker.js/
+
+## Install dependencies
 
 ``` 
 yarn
@@ -8,7 +14,7 @@ or
 npm i
 ```
 
-## run app
+## Run app
 
 ```
 yarn go 

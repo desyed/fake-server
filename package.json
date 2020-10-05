@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "go": "node ./generate.js > ./db.json && json-server --watch db.json"
+  },
+  "dependencies": {
+    "faker": "^5.1.0",
+    "json-server": "^0.16.2"
+  },
+  "name": "fake-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

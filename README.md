@@ -10,7 +10,9 @@ fake data docs: https://github.com/marak/Faker.js/
 
 ``` 
 yarn
+```
 or
+```
 npm i
 ```
 
@@ -18,6 +20,8 @@ npm i
 
 ```
 yarn go 
+```
 or
+```
 npm run go
 ```
